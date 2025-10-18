@@ -8,4 +8,8 @@ Skills to work
   - ECS
   - ECS with Fargate
 - Devops
-  - CICD   
+  - CICD
+    - Jenkins   
+- Iac
+  - Terraform
+  - AWS CDK
